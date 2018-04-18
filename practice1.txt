@@ -4,4 +4,5 @@ Adding one more line for reference to test the merge change
 This change has been done for testing changes on new branch created
 Added branch2 for testing merge issues now.
 Trying fork and making changes to the file
-Glad that you brought that up
+Glad that you brought that up.
+I reconsidered my thoughts and this seems to be perfect!
